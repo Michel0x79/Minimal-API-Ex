@@ -13,7 +13,7 @@ namespace MinhaApi.Models
         [Key]
         public int Id { get; set; }
         [Required(ErrorMessage = "Campo Name obrigatório!")]
-        public string Name { get; set; }
+        public string? Name { get; set; }
         [Required(ErrorMessage = "Campo RACA obrigatório!")]
         public int RacaId {get; set;}
         [JsonIgnore]
