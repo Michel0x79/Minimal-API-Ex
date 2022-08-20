@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "AHPPYMDwScjKasTjTl9GrtEs6tDd7ZPWXnvpFrPMYkNgCu4ho49cnkZm6pVByEm/wJXZUAQMyxnCpEUD5UqI9Q==",
+  "dgSpecHash": "Mg1cIfYoNBIoCIqijeiWw0A2gx/HDLb/wPKFDzPzfUi/2XEOdFIkBBTXqNWFaAvBtTEGoqe1DTgc6plmqbuGIg==",
   "success": true,
-  "projectFilePath": "D:\\Projetos\\MinhaApi\\MinhaApi.csproj",
+  "projectFilePath": "D:\\Projetos\\Minimal-API-Ex\\MinhaApi.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Michel\\.nuget\\packages\\microsoft.entityframeworkcore\\6.0.8\\microsoft.entityframeworkcore.6.0.8.nupkg.sha512",
     "C:\\Users\\Michel\\.nuget\\packages\\microsoft.entityframeworkcore.abstractions\\6.0.8\\microsoft.entityframeworkcore.abstractions.6.0.8.nupkg.sha512",

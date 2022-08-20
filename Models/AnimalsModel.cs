@@ -1,20 +1,23 @@
 using System.ComponentModel.DataAnnotations;
+using System.Text.Json.Serialization;
 
 namespace MinhaApi.Models
 {
     public class AnimalsModel
     {
-        public AnimalsModel()
-        {
-            this.Id = Guid.NewGuid();
+        // public AnimalsModel()
+        // {
+        //     // this.Id = Guid.NewGuid();
 
-        }
+        // }
         [Key]
-        public Guid Id { get; set; }
+        public int Id { get; set; }
         [Required(ErrorMessage = "Campo Name obrigatório!")]
         public string Name { get; set; }
         [Required(ErrorMessage = "Campo RACA obrigatório!")]
-        public string Raca { get; set; }
+        public int RacaId {get; set;}
+        [JsonIgnore]
+        public RacaModel? Raca { get; set; }
 
     }
 }

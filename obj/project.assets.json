@@ -561,11 +561,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Projetos\\MinhaApi\\MinhaApi.csproj",
+      "projectUniqueName": "D:\\Projetos\\Minimal-API-Ex\\MinhaApi.csproj",
       "projectName": "MinhaApi",
-      "projectPath": "D:\\Projetos\\MinhaApi\\MinhaApi.csproj",
+      "projectPath": "D:\\Projetos\\Minimal-API-Ex\\MinhaApi.csproj",
       "packagesPath": "C:\\Users\\Michel\\.nuget\\packages\\",
-      "outputPath": "D:\\Projetos\\MinhaApi\\obj\\",
+      "outputPath": "D:\\Projetos\\Minimal-API-Ex\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
